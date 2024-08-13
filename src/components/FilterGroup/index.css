@@ -1,0 +1,15 @@
+.labelFilterGroup {
+  color: #ffffff;
+}
+.separator {
+  border-color: #7e858e;
+  width: 100%;
+  border-width: 1px;
+  margin: 10;
+}
+.filterHeading {
+  color: #ffffff;
+}
+.fil {
+  list-style-type: none;
+}
